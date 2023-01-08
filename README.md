@@ -8,7 +8,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
+  - Flutter Project
+  - Node Postgres Sequelize Project
+  - Mongo Projects
 - ⚡ Fun fact: I love sketching
 - 💬 ask me about anything, i am happy to help;
 
