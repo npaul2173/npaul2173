@@ -4,6 +4,8 @@ A passionate self-taught frontend developer and a software engineer from india �
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
+Look at my new website 🌐 [portfolio](https://npauldev.in/) https://npauldev.in/
+
 ## I'm a Designer, Developer, Teacher and Son !!
 
 - 🌱 I’m currently learning everything 🤣
@@ -24,5 +26,5 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Android" width="26px" src="https://freeiconshop.com/wp-content/uploads/edd/android-flat.png" />
-<img align="left" alt="IOS" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" />
+
 <img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
