@@ -10,11 +10,6 @@ Look at my new website 🌐 [portfolio](https://npauldev.in/) https://npauldev.i
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-  - Flutter Project
-  - Node Postgres Sequelize Project
-  - Mongo Projects
-- ⚡ Fun fact: I love sketching
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**
